@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 181 超过经理收入的员工
 
 Employee 表包含所有员工，他们的经理也属于员工。每个员工都有一个 Id，此外还有一列对应员工的经理的 Id。
@@ -85,6 +84,3 @@ FROM Employee AS a JOIN Employee AS b
      ON a.ManagerId = b.Id
      AND a.Salary > b.Salary
 ;
-=======
-
->>>>>>> 8039622a654b9a1c21cfcffbfb8f7ccba5926024
