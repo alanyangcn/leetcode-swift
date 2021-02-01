@@ -37,7 +37,9 @@ If there are multiple answers, you may return any one of them.  It is guarantee
 * It is guaranteed there exists an answer.
 
 
+
 <span id="chinese" / >
+
 # 0888.公平的糖果棒交换
 
 爱丽丝和鲍勃有不同大小的糖果棒：A[i] 是爱丽丝拥有的第 i 根糖果棒的大小，B[j] 是鲍勃拥有的第 j 根糖果棒的大小。
