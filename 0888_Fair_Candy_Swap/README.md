@@ -38,7 +38,7 @@ If there are multiple answers, you may return any one of them.  It is guarantee
 
 
 
-<span id="chinese" / >
+<span id="chinese" ></span>
 
 # 0888.公平的糖果棒交换
 
